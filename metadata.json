@@ -1,0 +1,6 @@
+{
+  "name": "Stadium Auction",
+  "description": "A premium mobile-first private football draft & auction lobby system for friends. Real-time team joining, lobby sharing, and game setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
