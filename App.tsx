@@ -23,7 +23,7 @@ import {
   LogOut,
   AlertTriangle
 } from 'lucide-react';
-import Logo from './components/Logo';
+import Logo from './Logo';
 import FootballPitch from './components/FootballPitch';
 import Toast, { ToastMessage } from './components/ui/Toast';
 import { Lobby, Player, FootballPlayer, MATCH_CONFIGS } from './types';
